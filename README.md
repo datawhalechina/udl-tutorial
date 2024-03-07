@@ -1,32 +1,44 @@
-# 项目名称
+# 手推《Understanding Deep Learning》 udl-tutorial
 
-这里写项目的各类介绍信息，例如：
+视频讲解深度学习最新神书《Understanding Deep Learning》，附代码实践。
 
-- 项目背景、动机等简介内容
-- 项目内容目录
-- ....
+- 书籍下载地址： <https://udlbook.github.io/udlbook/>
 
-## Roadmap
+## 视频讲解目录
 
-*注：说明当前项目的规划，并将每个任务通过 Issue 形式进行对外进行发布。*
+- 视频讲解合集地址： [手推《Understanding Deep Learning》 理论与代码实践](https://space.bilibili.com/284105758/channel/collectiondetail?sid=2132178)
 
-## 参与贡献
+| 目录 |
+| :---- |
+| [0.1 课程介绍](https://www.bilibili.com/video/BV1bb4y1A7nm/?spm_id_from=333.999.0.0&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [1.1 介绍-监督学习](https://www.bilibili.com/video/BV1bK4y117h1/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [1.2 介绍-无监督学习](https://www.bilibili.com/video/BV1Jp4y1m7T3/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [1.3 介绍-强化学习与本书结构](https://www.bilibili.com/video/BV1Pg4y1e7yW/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [2 监督学习](https://www.bilibili.com/video/BV19T4y147wY/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [3.1 浅层神经网络-示例引入](https://www.bilibili.com/video/BV1Gw411L7X4/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [3.2 浅层神经网络-万能逼近定理](https://www.bilibili.com/video/BV1XA4m1L7qE/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [3.3 浅层神经网络-多元输入输出](https://www.bilibili.com/video/BV1uF4m137EA/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [3.4 浅层神经网络-一般形式](https://www.bilibili.com/video/BV1AJ4m1b7G3/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [3.5 浅层神经网络-总结](https://www.bilibili.com/video/BV1fm411X7As/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [4.1 深度神经网络-神经网络的组合](https://www.bilibili.com/video/BV1ZA4m1L7hB/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [4.2 深度神经网络-从组合网络到深度网络](https://www.bilibili.com/video/BV1Tx4y1C7GE/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [4.3 深度神经网络-深度神经网络](https://www.bilibili.com/video/BV15r421s7uT/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [4.4 深度神经网络-矩阵表示](https://www.bilibili.com/video/BV1uZ42127yT/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
+| [4.5 深度神经网络-浅层vs深层神经网络](https://www.bilibili.com/video/BV1QJ4m1e7t2/?spm_id_from=333.788&vd_source=072bec8d7760873ec94ccecfe1095d81) |
 
-- 如果你想参与到项目中来欢迎查看项目的 [Issue]() 查看没有被分配的任务。
-- 如果你发现了一些问题，欢迎在 [Issue]() 中进行反馈🐛。
-- 如果你对本项目感兴趣想要参与进来可以通过 [Discussion]() 进行交流💬。
+## 公告
 
-如果你对 Datawhale 很感兴趣并想要发起一个新的项目，欢迎查看 [Datawhale 贡献指南](https://github.com/datawhalechina/DOPMC#%E4%B8%BA-datawhale-%E5%81%9A%E5%87%BA%E8%B4%A1%E7%8C%AE)。
+*视频持续更新中！*
+
+
 
 ## 贡献者名单
 
-| 姓名 | 职责 | 简介 |
+| 姓名 | 职责 | BiliBili |
 | :----| :---- | :---- |
-| 小明 | 项目负责人 | 小明 |
-| 小红 | 第1章贡献者 | 小明的朋友 |
-| 小强 | 第2章贡献者 | 小明的朋友 |
+| 李立康 | 项目负责人 | [K_Bayesian](https://space.bilibili.com/284105758?spm_id_from=333.788.0.0) |
 
-*注：表头可自定义，但必须在名单中标明项目负责人*
+
 
 ## 关注我们
 
